@@ -13,6 +13,10 @@
 *   Daniel Heß 
 ********************************************************************************
 -->
+> [!WARNING]  
+> **Deprecated Project**  
+> This project is no longer maintained and should not be used for new development.  
+> Consider migrating to the supported ROS2 version of ADORe: https://github.com/eclipse-adore/adore
 
 # Automated Driving Open Research (ADORe)
 Eclipse ADORe is a modular software library and toolkit for decision making, planning, control and simulation of automated vehicles. 
